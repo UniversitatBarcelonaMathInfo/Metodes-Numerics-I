@@ -1,0 +1,6 @@
+# like vim
+*.swp
+
+# compilation c
+a.out
+*.ex
